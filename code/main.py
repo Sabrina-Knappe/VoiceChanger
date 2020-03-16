@@ -1,7 +1,7 @@
 #this code is to test the pysndfx package
 infile = 'my_audio_file.wav'
 outfile = 'my_processed_audio_file.ogg'
-from pysndfx import AudioEffectsChain
+import pysndfx
 
 fx = (
     AudioEffectsChain()
