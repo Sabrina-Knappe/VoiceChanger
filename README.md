@@ -1,2 +1,3 @@
 # VoiceChanger
-A voice changer software for avatar therapy
+A voice changer software prototype for avatar therapy.
+
